@@ -787,7 +787,7 @@ O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensi
 <table width="100%" class="cols">
 <tr>
 
-<td width="40%" style="text-align:left;">
+<td width="30%" style="text-align:left;">
 
 - Informações falsas
 - Redes sociais
@@ -798,7 +798,7 @@ O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensi
 
 </td>
 
-<td width="60%" style="text-align:right;padding-right:0;">
+<td width="70%" style="text-align:right;padding-right:0;">
 
 <img src="./assets/fake-news-o-que-e.jpeg">
 
