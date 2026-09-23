@@ -753,7 +753,7 @@ responsáveis de agir no ambiente digital.
 
 ## Objetivo geral
 
-O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensino Fundamental II por meio da aplicação de um jogo digital interativo, incentivando-os a combater fake news, desinformação e o mau uso das redes sociais através do pensamento crítico e da tomada de decisão colaborativa.
+O objetivo geral do projeto é **promover a Cidadania Digital entre alunos do Ensino Fundamental II por meio da aplicação de um jogo digital interativo**, incentivando-os a combater fake news, desinformação e o mau uso das redes sociais através do pensamento crítico e da tomada de decisão colaborativa.
 
 ---
 
@@ -768,7 +768,7 @@ O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensi
 
 ## Objetivos específicos
 
-- Aplicar um formulário para os alunos com a finalidade de obter um feedback acerca da ação efetuada, de modo a entender o quanto os alunos compreenderam sobre o tema, bem como poderíamos melhorar a dinâmica e o jogo, coletando dados que poderão ser úteis para a elaboração de melhores metodologias e dinâmicas voltadas a esse público-alvo no futuro.
+- **Aplicar um formulário** para os alunos **com a finalidade de obter um feedback acerca da ação efetuada**, de modo a **entender o quanto os alunos compreenderam sobre o tema**, bem **como poderíamos melhorar a dinâmica e o jogo**, coletando dados que poderão ser úteis para a elaboração de melhores metodologias e dinâmicas voltadas a esse público-alvo no futuro.
 
 ---
 
@@ -948,7 +948,9 @@ Serão definidos, principalmente, exemplos de:
 
 ## Etapa 3
 
-A terceira etapa será destinada ao **planejamento e desenvolvimento do jogo digital**. Nessa etapa **será definida:
+A terceira etapa será destinada ao **planejamento e desenvolvimento do jogo digital**. 
+
+Nessa etapa será definida:
 
 - A narrativa;
 - Os personagens;
@@ -963,13 +965,13 @@ A terceira etapa será destinada ao **planejamento e desenvolvimento do jogo dig
 
 Considera-se, inicialmente, o provável uso das seguintes **tecnologias** para a construção do jogo:
 
-● React 19
-● Vite 6
-● Tailwind CSS v4
-● Lucide React
-● Canvas Confetti
-● DiceBear
-● Web Audio API
+- React 19
+- Vite 6
+- Tailwind CSS v4
+- Lucide React
+- Canvas Confetti
+- DiceBear
+- Web Audio API
 
 ---
 
@@ -1072,7 +1074,7 @@ Espera-se que:
 
 <div class="label">07 - Protótipo</div>
 
-## Jogo Camisa 10
+## Jogo Digital Interativo
 
 <p> Um esboço do jogo proposto.</p>
 
