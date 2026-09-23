@@ -177,7 +177,7 @@ style: |
   section strong {
     font-weight: 700;
     color: #fff;
-    background: linear-gradient(transparent 58%, rgba(250, 204, 21, 0.42) 58%);
+    background: linear-gradient(transparent 58%, rgba(250, 204, 21, 0.1) 58%);
     padding: 0 0.12em;
     margin: 0 -0.12em;
     -webkit-box-decoration-break: clone;
@@ -580,6 +580,13 @@ style: |
     padding: 0 12px;
     vertical-align: top;
   }
+
+  section table.cols {
+    display: table;
+    width: 100%;
+    max-width: 100%;
+  }
+
   section .compare-col {
     padding: 20px 24px;
     background: rgba(0, 0, 0, 0.6);
@@ -671,30 +678,12 @@ style: |
 
 ---
 
+## Cidadania Digital
 
-## Mundo contemporâneo
-<br>
-<p> No mundo contemporâneo, <strong>a alta propagação de informações advindas das
-Tecnologias de Informação e Comunicação (TICs)</strong> é vista como uma grande
-transformação histórica que <strong>marcou significativamente o século XXI</strong>. 
-</p>
-
-<p><br>Nesse contexto, <strong>a dinâmica de consumo</strong> e da propagação de informação rápida e
+<p><strong>A dinâmica de consumo</strong> e da propagação de informação rápida e
 acessível <strong>trouxe consigo alguns problemas para a sociedade, especialmente para
 os mais jovens</strong>.</p>
 
-
-
-<!-- <div style="margin-top:1.4em">
-  <span class="tag">Vs Code</span>
-  <span class="tag green">Cursor</span>
-  <span class="tag pink">Intellij</span>
-</div> -->
-
----
-
-## Cidadania Digital
-<br>
 <p> Envolta desta problemática, é evidente que <strong>a população carece de
 conhecimentos de como lidar de modo ético e responsável com esse novo
 ambiente</strong>. </p>
@@ -721,8 +710,6 @@ atribuído a diversos pontos, como: </p>
 - Utilizar a tecnologia de modo responsável;
 - Compreender sobre segurança e privacidade no ambiente virtual;
 - Saber diferenciar informações falsas de verdadeiras no âmbito virtual.
-
-
 
 <p><br><strong>Qual a ação proposta para contribuir com a Cidadania Digital?</strong></p>
 
@@ -795,15 +782,69 @@ O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensi
 
 ---
 
-## Cidadania Digital
+## Fake News
 
-...
+<table width="100%" class="cols">
+<tr>
+
+<td width="40%" style="text-align:left;">
+
+- Informações falsas
+- Redes sociais
+- Engajamento
+- Falta de verificação
+- Popularização do termo
+- "Desordem Informacional"
+
+</td>
+
+<td width="60%" style="text-align:right;padding-right:0;">
+
+<img src="./assets/fake-news-o-que-e.jpeg">
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## Fake News
 
-...
+
+<table class="cols">
+<tr>
+<td width="63.4%">
+
+<img src="./assets/youre-fake-news.jpeg" style="width:100%;height:520px;object-fit:cover;border-radius:12px;">
+
+<br>
+
+</td>
+<td width="36.6%">
+
+<img src="./assets/fake-news.jpeg" style="width:100%;height:520px;object-fit:cover;border-radius:12px;">
+
+</td>
+</tr>
+</table>
+
+---
+
+## Tipos de desordem informacional
+
+- Misinformation
+- Malinformation
+- Disinformation
+
+---
+
+## Cidadania Digital no combate às Fake News
+
+- Pensamento crítico
+- Verificação
+- Educação midiática
+- Responsabilidade
+- Consciência digital
 
 ---
 
