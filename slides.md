@@ -1081,5 +1081,6 @@ Espera-se que:
 
 ---
 <!-- _class: game-slide -->
-<iframe src="http://localhost:5173" style="width: 100%; height: 100%; border: none; display: block;"></iframe>
+<!-- <iframe src="http://localhost:5173" style="width: 100%; height: 100%; border: none; display: block;"></iframe> -->
+<iframe src="./game/dist" style="width: 100%; height: 100%; border: none; display: block;"></iframe>
 ---
