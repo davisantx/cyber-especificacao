@@ -782,6 +782,31 @@ O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensi
 
 ---
 
+## Cidadania digital
+
+<table class="cols">
+<tr>
+
+<td width="60%" style="text-align:left;">
+
+- Direitos e responsabilidades
+- Uso consciente da tecnologia
+- Discernimento e pensamento crítico
+- Educação digital e midiática
+- Papel social nos meios digitais
+
+</td>
+
+<td width="40%" style="text-align:right;padding-right:0;">
+
+<img src="./assets/cidadania-digital.jpeg" style="width:100%;height:520px;object-fit:cover;border-radius:12px;">
+
+</td>
+</tr>
+</table>
+
+---
+
 ## Fake News
 
 <table class="cols">
@@ -836,7 +861,7 @@ O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensi
 
 <table class="cols">
 <tr>
-<td width="40%">
+<td width="30%">
 
 - Misinformation
 - Malinformation
@@ -845,7 +870,7 @@ O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensi
 <br>
 
 </td>
-<td width="60%">
+<td width="70%">
 
 <img src="./assets/desinformacao.jpeg" style="width:100%;height:520px;object-fit:cover;border-radius:12px;">
 
@@ -858,11 +883,26 @@ O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensi
 
 ## Cidadania Digital no combate às Fake News
 
+<table class="cols">
+<tr>
+<td width="30%">
+
 - Pensamento crítico
 - Verificação
 - Educação midiática
 - Responsabilidade
 - Consciência digital
+
+<br>
+
+</td>
+<td width="70%">
+
+<img src="./assets/lupa.jpeg" style="width:100%;height:520px;object-fit:cover;border-radius:12px;">
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -878,7 +918,7 @@ O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensi
 
 ## Etapa 1
 
-A primeira etapa consiste na realização de uma pesquisa bibliográfica em fontes confiáveis sobre Cidadania Digital, <i>fake news</i>, desinformação e o uso das redes sociais por crianças e adolescentes.
+A <strong>primeira etapa</strong> consiste na realização de uma <strong>pesquisa bibliográfica</strong> em fontes confiáveis <strong>sobre Cidadania Digital</strong>, <strong><i>fake news</i></strong>, <strong>desinformação</strong> e o **uso das redes sociais por crianças e adolescentes**.
 
 
 <p> Nessa pesquisa, serão buscadas:</p>
@@ -888,13 +928,13 @@ A primeira etapa consiste na realização de uma pesquisa bibliográfica em font
 - Quais dificuldades os jovens podem encontrar ao avaliar a veracidade de uma informação e quais atitudes podem ser tomadas para evitar sua propagação.
 
 
-<br> As informações encontradas servirão como base para a elaboração do conteúdo apresentado no jogo.
+<br> **As informações encontradas servirão como base para a elaboração do conteúdo apresentado no jogo**.
 
 ---
 
 ## Etapa 2
 
-Com base nas informações obtidas durante a pesquisa, serão selecionados os principais conhecimentos que deverão ser trabalhados com os alunos. 
+Com base nas informações obtidas durante a pesquisa, **serão selecionados os principais conhecimentos que deverão ser trabalhados com os alunos**. 
 
 Serão definidos, principalmente, exemplos de:
 
@@ -902,21 +942,26 @@ Serão definidos, principalmente, exemplos de:
 - Formas de verificar uma informação antes de compartilhá-la 
 - Atitudes que contribuem para um uso mais responsável das redes sociais.
 
-<br> O conteúdo será adaptado para uma linguagem adequada aos estudantes do Ensino Fundamental II, buscando apresentar situações que façam parte ou sejam próximas de sua realidade.
+<br> **O conteúdo será adaptado para uma linguagem adequada aos estudantes do Ensino Fundamental II, buscando apresentar situações que façam parte ou sejam próximas de sua realidade**.
 
 ---
 
 ## Etapa 3
 
-A terceira etapa será destinada ao planejamento e desenvolvimento do jogo digital. Nessa etapa será definida a narrativa, os personagens, as situações apresentadas e as opções de decisão disponíveis para os participantes.
+A terceira etapa será destinada ao **planejamento e desenvolvimento do jogo digital**. Nessa etapa **será definida:
 
-Nesta etapa, planeja-se utilizar ferramentas de inteligência artificial para auxiliar no processo de desenvolvimento e codificação do jogo digital web.
+- A narrativa;
+- Os personagens;
+- As situações apresentadas;
+- As opções de decisão disponíveis para os participantes.
+
+<br> **Nesta etapa, planeja-se utilizar ferramentas de inteligência artificial para auxiliar no processo de desenvolvimento e codificação do jogo digital web**.
 
 ---
 
 ## Etapa 3
 
-Considera-se, inicialmente, o provável uso das seguintes tecnologias para a construção do jogo:
+Considera-se, inicialmente, o provável uso das seguintes **tecnologias** para a construção do jogo:
 
 ● React 19
 ● Vite 6
@@ -930,7 +975,7 @@ Considera-se, inicialmente, o provável uso das seguintes tecnologias para a con
 
 ## Etapa 4
 
-Na quarta etapa será realizada a aplicação do jogo com os estudantes. A atividade terá duração aproximada de uma hora e será conduzida pela equipe responsável pelo projeto.
+Na quarta etapa **será realizada a aplicação do jogo com os estudantes**. A atividade **terá duração aproximada de uma hora** e **será conduzida pela equipe responsável pelo projeto**.
 
 Os participantes serão apresentados à narrativa e convidados a tomar decisões de maneira colaborativa diante das situações apresentadas. 
 
@@ -940,9 +985,9 @@ Durante a atividade, serão realizadas explicações e discussões sobre as esco
 
 ## Etapa 5
 
-Na quinta etapa, será realizada uma avaliação da ação, buscando verificar a compreensão dos estudantes sobre os conteúdos apresentados.
+Na quinta etapa, **será realizada uma avaliação da ação, buscando verificar a compreensão dos estudantes sobre os conteúdos apresentados**.
 
-Nesta etapa, o feedback será obtido por meio da aplicação de um questionário impresso ao fim da dinâmica, mas também poderá ser obtido virtualmente no preenchimento de um formulário digital ao finalizar o jogo.
+Nesta etapa, o feedback será obtido por meio da aplicação de um **questionário impresso ao fim da dinâmica**, mas também poderá ser obtido virtualmente no preenchimento de um formulário digital **ao finalizar o jogo**.
 
 ---
 
@@ -981,13 +1026,18 @@ Nesta etapa, o feedback será obtido por meio da aplicação de um questionário
 
 ## Expectativa
 
-Ao fim da aplicação do projeto, espera-se que os participantes sejam capazes de:
+Ao fim da aplicação do projeto, **espera-se que os participantes sejam capazes de**:
 
 - Reconhecer situações de desinformação presentes no cotidiano digital
 - Refletir antes de compartilhar conteúdos e compreender a importância de verificar a veracidade das informações antes de repassá-las para outras pessoas
 
 
-<br> Além disso, espera-se estimular o pensamento crítico, a responsabilidade, a ética e o respeito no ambiente digital.
+<br> Além disso, espera-se estimular:
+
+- O pensamento crítico;
+- A responsabilidade;
+- A ética;
+- O respeito no ambiente digital.
 
 
 ---
