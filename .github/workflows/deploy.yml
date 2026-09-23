@@ -1,0 +1,4 @@
+permissions:
+  contents: read
+  pages: write      # Permissão necessária para publicar no GitHub Pages
+  id-token: write   # Permissão que resolve o erro de "Failed to get ID Token"
