@@ -784,7 +784,7 @@ O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensi
 
 ## Fake News
 
-<table width="100%" class="cols">
+<table class="cols">
 <tr>
 
 <td width="30%" style="text-align:left;">
@@ -800,7 +800,7 @@ O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensi
 
 <td width="70%" style="text-align:right;padding-right:0;">
 
-<img src="./assets/fake-news-o-que-e.jpeg">
+<img src="./assets/fake-news-o-que-e.jpeg" style="width:100%;height:520px;object-fit:cover;border-radius:12px;">
 
 </td>
 </tr>
@@ -832,9 +832,27 @@ O objetivo geral do projeto é promover a Cidadania Digital entre alunos do Ensi
 
 ## Tipos de desordem informacional
 
+
+
+<table class="cols">
+<tr>
+<td width="40%">
+
 - Misinformation
 - Malinformation
 - Disinformation
+
+<br>
+
+</td>
+<td width="60%">
+
+<img src="./assets/desinformacao.jpeg" style="width:100%;height:520px;object-fit:cover;border-radius:12px;">
+
+</td>
+</tr>
+</table>
+
 
 ---
 
