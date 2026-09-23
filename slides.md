@@ -924,7 +924,7 @@ A <strong>primeira etapa</strong> consiste na realização de uma <strong>pesqui
 <p> Nessa pesquisa, serão buscadas:</p>
 
 - Informações que permitam compreender o que caracteriza uma informação falsa ou enganosa;
-- Como esse tipo de conteúdo pode ser disseminado na Internet
+- Como esse tipo de conteúdo pode ser disseminado na Internet;
 - Quais dificuldades os jovens podem encontrar ao avaliar a veracidade de uma informação e quais atitudes podem ser tomadas para evitar sua propagação.
 
 
@@ -938,8 +938,8 @@ Com base nas informações obtidas durante a pesquisa, **serão selecionados os 
 
 Serão definidos, principalmente, exemplos de:
 
-- Situações envolvendo fake news e desinformação
-- Formas de verificar uma informação antes de compartilhá-la 
+- Situações envolvendo fake news e desinformação;
+- Formas de verificar uma informação antes de compartilhá-la; 
 - Atitudes que contribuem para um uso mais responsável das redes sociais.
 
 <br> **O conteúdo será adaptado para uma linguagem adequada aos estudantes do Ensino Fundamental II, buscando apresentar situações que façam parte ou sejam próximas de sua realidade**.
@@ -1018,7 +1018,7 @@ Nesta etapa, o feedback será obtido por meio da aplicação de um **questionár
 
 <!-- _class: divider -->
 
-<div class="label">05</div>
+<div class="label">06</div>
 
 ## Resultados esperados e avaliação
 
