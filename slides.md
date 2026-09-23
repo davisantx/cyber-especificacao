@@ -747,7 +747,7 @@ responsáveis de agir no ambiente digital.
 
 ## Objetivos
 
-<p>Qual é o objetivo geral e quais são os objetivos específicos atrelado ao projeto Cyber?</p>
+<p>Qual é o objetivo geral e quais são os objetivos específicos atrelados ao projeto Cyber?</p>
 
 ---
 
@@ -1082,5 +1082,5 @@ Espera-se que:
 ---
 <!-- _class: game-slide -->
 <!-- <iframe src="http://localhost:5173" style="width: 100%; height: 100%; border: none; display: block;"></iframe> -->
-<iframe src="./game/dist/index.html" style="width: 100%; height: 100%; border: none; display: block;"></iframe>
+<iframe src="./game/dist/" style="width: 100%; height: 100%; border: none; display: block;"></iframe>
 ---
